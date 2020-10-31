@@ -1,0 +1,105 @@
+﻿<Window x:Class="Book_management_system.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Book_management_system"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="544.297" Width="924.138">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="47*"/>
+            <ColumnDefinition Width="870*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="data_grid" HorizontalAlignment="Left" Height="420" Margin="5,83,0,0" VerticalAlignment="Top" Width="903" ColumnWidth="100" Grid.ColumnSpan="2"/>
+        <Button x:Name="btn_add"  HorizontalAlignment="Left" Margin="29,20,0,0" VerticalAlignment="Top" Width="45" Height="46"   Background="Transparent"   BorderBrush="Transparent" RenderTransformOrigin="1.731,1.134" Click="btn_add_Click" Grid.ColumnSpan="2"  >
+            <Button.Content>
+
+
+                <StackPanel Orientation="Horizontal" RenderTransformOrigin="1.036,0.91">
+                    <Image Source="Resources/book_PNG51090.png" Height="35" Width="37"/>
+
+                </StackPanel>
+            </Button.Content>
+
+
+        </Button>
+        <Label Content="Add Book" HorizontalAlignment="Left" Margin="17,60,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.151,0.718" Grid.ColumnSpan="2"/>
+
+
+        <Button x:Name="btn_change"  HorizontalAlignment="Left" Margin="61.8,25,0,0" VerticalAlignment="Top" Width="34" Height="37"   Background="Transparent"   BorderBrush="Transparent" RenderTransformOrigin="1.731,1.134" Click="btn_change_Click" Grid.Column="1"  >
+            <Button.Content>
+
+
+                <StackPanel Orientation="Horizontal" RenderTransformOrigin="1.036,0.91">
+                    <Image Source="Resources/change.png"/>
+
+                </StackPanel>
+            </Button.Content>
+
+
+        </Button>
+        <Label Content="Change" HorizontalAlignment="Left" Margin="54.8,60,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.151,0.718" Height="28" Width="51" Grid.Column="1"/>
+        <Button x:Name="btn_remove"  HorizontalAlignment="Left" Margin="140.8,25,0,0" VerticalAlignment="Top" Width="32" Height="32"   Background="Transparent"   BorderBrush="Transparent" RenderTransformOrigin="1.731,1.134" Click="btn_remove_Click" Grid.Column="1"  >
+
+
+            <StackPanel Orientation="Horizontal" RenderTransformOrigin="1.036,0.91">
+                <Image Source="Resources/remove2.png" Height="30" Width="28"/>
+
+            </StackPanel>
+
+
+        </Button>
+        <Button x:Name="btn_search"  HorizontalAlignment="Left" Margin="214.8,25,0,0" VerticalAlignment="Top" Width="33" Height="35"   Background="Transparent"   BorderBrush="Transparent" RenderTransformOrigin="1.731,1.134" Click="btn_search_Click" Grid.Column="1"  >
+
+
+            <StackPanel Orientation="Horizontal" RenderTransformOrigin="1.036,0.91">
+                <Image Source="Resources/search-png-icon-21.jpg" Height="35" Width="29"/>
+
+            </StackPanel>
+
+
+        </Button>
+        <Label Content="Remove" HorizontalAlignment="Left" Margin="129.8,60,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.151,0.718" Height="23" Grid.Column="1"/>
+        <Button x:Name="btn_filtter"  HorizontalAlignment="Left" Margin="289.8,25,0,0" VerticalAlignment="Top" Width="34" Height="35"   Background="Transparent"   BorderBrush="Transparent" RenderTransformOrigin="1.731,1.134" Click="btn_filtter_Click" Grid.Column="1"  >
+
+            <Button.ContextMenu>
+                <ContextMenu x:Name="cc">
+                    <MenuItem Header="Genre">
+                        <MenuItem  x:Name="item1" Header="Fantasy" Click="item1_Click"/>
+                        <MenuItem  x:Name="item2" Header="Romance" Click="item2_Click"/>
+                        <MenuItem  x:Name="item3"  Header="Adventure" Click="item3_Click"/>
+                        <MenuItem  x:Name="item4" Header="Mystery" Click="item4_Click"/>
+                        <MenuItem  x:Name="item5" Header="All" Click="item5_Click"/>
+                    </MenuItem>
+
+                    <Separator />
+
+                </ContextMenu>
+            </Button.ContextMenu>
+
+
+            <StackPanel Orientation="Horizontal" RenderTransformOrigin="1.036,0.91">
+                <Image Source="Resources/fillter.png" Height="28" Width="27"/>
+
+            </StackPanel>
+
+
+        </Button>
+        <Button x:Name="btn_raport"  HorizontalAlignment="Left" Margin="360.8,25,0,0" VerticalAlignment="Top" Width="41" Height="38"   Background="Transparent"   BorderBrush="Transparent" RenderTransformOrigin="1.731,1.134" Click="btn_raport_Click" Grid.Column="1"  >
+
+
+            <StackPanel Orientation="Horizontal" RenderTransformOrigin="1.036,0.91">
+                <Image Source="Resources/raport.png" Height="35" Width="38"/>
+
+            </StackPanel>
+
+
+        </Button>
+
+        <Label Content="Search" HorizontalAlignment="Left" Margin="206.8,60,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.151,0.718" Height="23" Grid.Column="1"/>
+        <Label Content="Fillter " HorizontalAlignment="Left" Margin="288.8,60,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.151,0.718" Height="23" Grid.Column="1"/>
+        <Label Content="Raport " HorizontalAlignment="Left" Margin="357.8,60,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.151,0.718" Height="26" Width="46" Grid.Column="1"/>
+
+    </Grid>
+</Window>

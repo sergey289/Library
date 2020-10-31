@@ -1,0 +1,43 @@
+﻿<Window x:Name="NewBook" x:Class="Book_management_system.new_book"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Book_management_system"
+        mc:Ignorable="d"
+        Title="Book Detail" Height="608.95" Width="491.2" Background="Gainsboro" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Margin="0,6,-0.2,-6.2">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="181*"/>
+            <RowDefinition Height="85*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="txt_title" HorizontalAlignment="Left" Height="23" Margin="92,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" TextChanged="txt_title_TextChanged"/>
+        <Label Content="title" HorizontalAlignment="Left" Margin="14,18,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
+        <Label Content="Author" HorizontalAlignment="Left" Margin="11,59,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
+        <TextBox x:Name="txt_author" HorizontalAlignment="Left" Height="23" Margin="93,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" TextChanged="txt_author_TextChanged"/>
+        <TextBox x:Name="txt_publisher" HorizontalAlignment="Left" Height="23" Margin="92,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300"/>
+        <Label Content="Publisher" HorizontalAlignment="Left" Margin="8,103,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
+        <Label Content="description" HorizontalAlignment="Left" Margin="6,194,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
+        <TextBox x:Name="txt_descr" HorizontalAlignment="Left" Height="104" Margin="92,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300"/>
+        <Label Content="Isbn" HorizontalAlignment="Left" Margin="6,326,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
+        <TextBox x:Name="txt_isbn" HorizontalAlignment="Left" Height="23" Margin="92,328,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173"/>
+        <Label Content="Genre" HorizontalAlignment="Left" Margin="5,372,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336" Grid.RowSpan="2"/>
+        <ComboBox x:Name="comb_genre" HorizontalAlignment="Left" Margin="92,375,0,0" VerticalAlignment="Top" Width="173" SelectionChanged="comb_genre_SelectionChanged" Grid.RowSpan="2">
+            
+        </ComboBox>
+        <TextBox x:Name="txt_price" HorizontalAlignment="Left" Height="23" Margin="316,328,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="76" TextChanged="txt_price_TextChanged" PreviewTextInput="txt_price_PreviewTextInput"/>
+        <Label Content="Price" HorizontalAlignment="Left" Margin="272,327,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
+        <Button x:Name="btn_ok" Content="OK" HorizontalAlignment="Left" Margin="160,120,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Click="btn_ok_Click"/>
+        <Button x:Name="btn_cancel" Content="Cencel" HorizontalAlignment="Left" Margin="259,120,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Click="btn_cancel_Click"/>
+        <TextBox x:Name="txt_quantitu" HorizontalAlignment="Left" Height="23" Margin="92,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" TextChanged="txt_quantitu_TextChanged" PreviewTextInput="txt_quantitu_PreviewTextInput"/>
+        <Label Content="Quantity" HorizontalAlignment="Left" Margin="8,149,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
+        <Label x:Name="lab_title" Content="*" HorizontalAlignment="Left" Margin="394,13,0,0" VerticalAlignment="Top" FontSize="22" Height="32" Width="26" Foreground="#FFE81010" RenderTransformOrigin="0.454,1.469"/>
+        <Label x:Name="lab_quntity" Content="*" HorizontalAlignment="Left" Margin="218,147,0,0" VerticalAlignment="Top" FontSize="22" Height="32" Width="26" Foreground="#FFE81010" RenderTransformOrigin="-5.877,2.971"/>
+        <Label x:Name="lab_ganre" Content="*" HorizontalAlignment="Left" Margin="269,370,0,0" VerticalAlignment="Top" FontSize="22" Height="32" Width="26" Foreground="#FFE81010" RenderTransformOrigin="-5.877,2.971" Grid.RowSpan="2"/>
+        <Label x:Name="lab_price" Content="*" HorizontalAlignment="Left" Margin="395,321,0,0" VerticalAlignment="Top" FontSize="22" Height="32" Width="26" Foreground="#FFE81010" RenderTransformOrigin="-5.877,2.971"/>
+        <Label x:Name="lab_author" Content="*" HorizontalAlignment="Left" Margin="394,57,0,0" VerticalAlignment="Top" FontSize="22" Height="32" Width="26" Foreground="#FFE81010" RenderTransformOrigin="0.454,1.469"/>
+        <Label Content="Date publish" HorizontalAlignment="Left" Margin="4,26,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336" Grid.Row="1"/>
+        <DatePicker x:Name="pic_publish_date" HorizontalAlignment="Left" Margin="93,26,0,0" Grid.Row="1" VerticalAlignment="Top" Width="172" PreviewTextInput="DatePicker_PreviewTextInput" Focusable="False"/>
+
+    </Grid>
+</Window>

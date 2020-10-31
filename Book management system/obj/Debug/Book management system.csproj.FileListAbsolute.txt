@@ -1,0 +1,147 @@
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\MainWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\App.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Book management system_MarkupCompile.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Book management system_MarkupCompile.lref
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\Book management system.exe.config
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\Book management system.exe
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\Book management system.pdb
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\MainWindow.baml
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Book management system.g.resources
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Book_management_system.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Book management system.csproj.GenerateResource.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Book management system.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Book management system.exe
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Book management system.pdb
+C:\Users\sergey\Desktop\version\Book management system\Book management system\bin\Debug\Book management system.exe.config
+C:\Users\sergey\Desktop\version\Book management system\Book management system\bin\Debug\Book management system.exe
+C:\Users\sergey\Desktop\version\Book management system\Book management system\bin\Debug\Book management system.pdb
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\Book management system.csprojAssemblyReference.cache
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\MainWindow.g.cs
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\App.g.cs
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\Book management system_MarkupCompile.cache
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\Book management system_MarkupCompile.lref
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\MainWindow.baml
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\Book management system.g.resources
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\Book_management_system.Properties.Resources.resources
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\Book management system.csproj.GenerateResource.cache
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\Book management system.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\Book management system.exe
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\Book management system.pdb
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\new book.g.cs
+C:\Users\sergey\Desktop\version\Book management system\Book management system\obj\Debug\new book.baml
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\new book.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\new book.baml
+C:\Users\sergey\Desktop\Book management system\Book management system\bin\Debug\Book management system.exe.config
+C:\Users\sergey\Desktop\Book management system\Book management system\bin\Debug\Book management system.exe
+C:\Users\sergey\Desktop\Book management system\Book management system\bin\Debug\Book management system.pdb
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\MainWindow.g.cs
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\new book.g.cs
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\App.g.cs
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Book management system_MarkupCompile.cache
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Book management system_MarkupCompile.lref
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\MainWindow.baml
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\new book.baml
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Book management system.g.resources
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Book_management_system.Properties.Resources.resources
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Book management system.csproj.GenerateResource.cache
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Book management system.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Book management system.exe
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Book management system.pdb
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Change book details.g.cs
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Change book details.baml
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\bin\Debug\Book management system.exe.config
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\bin\Debug\Book management system.exe
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\bin\Debug\Book management system.pdb
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Change book details.g.cs
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\MainWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\new book.g.cs
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\App.g.cs
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Book management system_MarkupCompile.cache
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Book management system_MarkupCompile.lref
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Change book details.baml
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\MainWindow.baml
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\new book.baml
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Book management system.g.resources
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Book_management_system.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Book management system.csproj.GenerateResource.cache
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Book management system.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Book management system.exe
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Book management system.pdb
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Change book details.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Change book details.baml
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Search Book.g.cs
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Search Book.baml
+C:\Users\sergey\Desktop\Book management system\Book management system\obj\Debug\Book management system.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Search Book.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Search Book.baml
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Book management system.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Search Book.g.cs
+C:\Users\johnn\OneDrive\Desktop\Book management system\Book management system\obj\Debug\Search Book.baml
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\FlashControlV71.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\bin\Debug\stdole.dll
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Generates Reports.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Generates Reports.baml
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Book management system.csproj.CopyComplete
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\The book management system\Book management system\Book management system\obj\Debug\Book management system.csprojAssemblyReference.cache
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\Book management system.exe.config
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\Book management system.exe
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\Book management system.pdb
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\FlashControlV71.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\stdole.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Book management system.csprojAssemblyReference.cache
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Change book details.g.cs
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Generates Reports.g.cs
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\MainWindow.g.cs
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\new book.g.cs
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Search Book.g.cs
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\App.g.cs
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Book management system_MarkupCompile.cache
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Book management system_MarkupCompile.lref
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Change book details.baml
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Generates Reports.baml
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\MainWindow.baml
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\new book.baml
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Search Book.baml
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Book management system.g.resources
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Book_management_system.Properties.Resources.resources
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Book management system.csproj.GenerateResource.cache
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Book management system.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Book management system.csproj.CopyComplete
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Book management system.exe
+C:\Users\sergey\Desktop\Project Book management system\Book management system\Book management system\obj\Debug\Book management system.pdb
