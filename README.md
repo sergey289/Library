@@ -1,6 +1,5 @@
 # Library management system
 
-## About
 Library management system created using the concepts of object-oriented design. This project was developed as part of the course "Object-oriented analysis and design. The system allows to the user to add new books to the system, manage existing books, edit book data, search for books by different parameters, filters books by genre, and the ability to generate reports by genre and publication date of the book
 
 
