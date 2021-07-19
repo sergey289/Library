@@ -11,29 +11,29 @@
             <RowDefinition Height="181*"/>
             <RowDefinition Height="85*"/>
         </Grid.RowDefinitions>
-        <TextBox x:Name="txt_title" HorizontalAlignment="Left" Height="23" Margin="100,23,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300"/>
-        <Label Content="title" HorizontalAlignment="Left" Margin="16,22,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
-        <Label Content="Author" HorizontalAlignment="Left" Margin="13,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
-        <TextBox x:Name="txt_author" HorizontalAlignment="Left" Height="23" Margin="101,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300"/>
-        <TextBox x:Name="txt_publisher" HorizontalAlignment="Left" Height="23" Margin="100,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300"/>
-        <Label Content="Publisher" HorizontalAlignment="Left" Margin="10,109,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
+        <TextBox x:Name="txt_title" HorizontalAlignment="Left" Height="21" Margin="100,23,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300"/>
+        <Label Content="title" HorizontalAlignment="Left" Margin="16,20,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
+        <Label Content="Author" HorizontalAlignment="Left" Margin="13,64,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
+        <TextBox x:Name="txt_author" HorizontalAlignment="Left" Height="21" Margin="101,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300"/>
+        <TextBox x:Name="txt_publisher" HorizontalAlignment="Left" Height="21" Margin="100,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300"/>
+        <Label Content="Publisher" HorizontalAlignment="Left" Margin="10,108,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
         <Label Content="description" HorizontalAlignment="Left" Margin="8,197,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
         <TextBox x:Name="txt_descr" HorizontalAlignment="Left" Height="104" Margin="100,208,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300"/>
-        <Label Content="Isbn" HorizontalAlignment="Left" Margin="8,329,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
-        <TextBox x:Name="txt_isbn" HorizontalAlignment="Left" Height="23" Margin="100,331,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173"/>
-        <Label Content="Genre" HorizontalAlignment="Left" Margin="7,373,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336" Grid.RowSpan="2"/>
+        <Label Content="Isbn" HorizontalAlignment="Left" Margin="8,328,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
+        <TextBox x:Name="txt_isbn" HorizontalAlignment="Left" Height="21" Margin="100,331,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173"/>
+        <Label Content="Genre" HorizontalAlignment="Left" Margin="7,374,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336" Grid.RowSpan="2"/>
         <ComboBox x:Name="comb_genre" HorizontalAlignment="Left" Margin="100,376,0,0" VerticalAlignment="Top" Width="173" Grid.RowSpan="2">
-            
+
         </ComboBox>
-        <TextBox x:Name="txt_price" HorizontalAlignment="Left" Height="23" Margin="324,331,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="76" PreviewTextInput="txt_price_PreviewTextInput"/>
-        <Label Content="Price" HorizontalAlignment="Left" Margin="280,330,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
-        <Button x:Name="btn_ok" Content="OK" HorizontalAlignment="Left" Margin="160,124,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Click="btn_ok_Click"/>
-        <Button x:Name="btn_cencel" Content="Cencel" HorizontalAlignment="Left" Margin="259,124,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Click="btn_cencel_Click"/>
-        <TextBox x:Name="txt_quantitu" HorizontalAlignment="Left" Height="23" Margin="100,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" PreviewTextInput="txt_quantitu_PreviewTextInput"/>
+        <TextBox x:Name="txt_price" HorizontalAlignment="Left" Height="21" Margin="324,331,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="76" PreviewTextInput="txt_price_PreviewTextInput"/>
+        <Label Content="Price" HorizontalAlignment="Left" Margin="280,329,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
+        <Button x:Name="btn_ok" Content="OK" HorizontalAlignment="Left" Margin="160,124,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Click="btn_ok_Click" Background="#FFFBF9F9" Height="22"/>
+        <Button x:Name="btn_cencel" Content="Cencel" HorizontalAlignment="Left" Margin="259,124,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Click="btn_cencel_Click" Background="WhiteSmoke" Height="22"/>
+        <TextBox x:Name="txt_quantitu" HorizontalAlignment="Left" Height="21" Margin="100,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" PreviewTextInput="txt_quantitu_PreviewTextInput"/>
         <Label Content="Quantity" HorizontalAlignment="Left" Margin="10,153,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336"/>
 
-        <Label Content="Date publish" HorizontalAlignment="Left" Margin="4,27,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336" Grid.Row="1"/>
-        <DatePicker x:Name="pic_publish_date" HorizontalAlignment="Left" Margin="101,27,0,0" Grid.Row="1" VerticalAlignment="Top" Width="172" Focusable="False"/>
+        <Label Content="Date publish" HorizontalAlignment="Left" Margin="4,26,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,2.336" Grid.Row="1"/>
+        <DatePicker x:Name="pic_publish_date" HorizontalAlignment="Left" Margin="101,27,0,0" Grid.Row="1" VerticalAlignment="Top" Width="172" Focusable="False" Height="23"/>
 
     </Grid>
 </Window>
