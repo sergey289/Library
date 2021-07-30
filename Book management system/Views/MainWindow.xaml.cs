@@ -29,12 +29,8 @@ namespace Book_management_system
         public MainWindow()
         {
             InitializeComponent();
-
             libery.DefultBooks();
-
             DisplayData();
-
-
 
         }
 
@@ -44,10 +40,10 @@ namespace Book_management_system
 
 
         public void DisplayData()
-       {
+        {
             data_grid.ItemsSource = libery.DesplayBook();
   
-       }
+        }
 
 
         public void RefreshData()
@@ -140,7 +136,7 @@ namespace Book_management_system
             }
             catch (Exception ex)
             {
-                File.WriteAllText("ErorrLog.txt", ex.Message);
+                File.WriteAllText(@"\ErorrLog.txt", ex.Message);
 
                 MessageBox.Show("error: No object was selected to change");
 

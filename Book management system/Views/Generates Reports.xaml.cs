@@ -254,21 +254,11 @@ namespace Book_management_system
             }
 
 
-
-
-
             ReportBooks crsrap = new ReportBooks();
 
             crsrap.Database.Tables["Books"].SetDataSource(dt);
 
-
             raport_view.ViewerCore.ReportSource = crsrap;
-
-
-
-
-
-
 
         }
     }

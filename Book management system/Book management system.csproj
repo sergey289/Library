@@ -66,7 +66,7 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Classes\Journal manager.cs" />
-    <Compile Include="Generates Reports.xaml.cs">
+    <Compile Include="Views\Generates Reports.xaml.cs">
       <DependentUpon>Generates Reports.xaml</DependentUpon>
     </Compile>
     <Compile Include="ReportGenerator\CrystalReport\ReportBooks.cs">
@@ -80,18 +80,18 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>dt_Books.xsd</DependentUpon>
     </Compile>
-    <Compile Include="Search Book.xaml.cs">
+    <Compile Include="Views\Search Book.xaml.cs">
       <DependentUpon>Search Book.xaml</DependentUpon>
     </Compile>
-    <Page Include="Change book details.xaml">
+    <Page Include="Views\Change book details.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Generates Reports.xaml">
+    <Page Include="Views\Generates Reports.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="MainWindow.xaml">
+    <Page Include="Views\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -99,7 +99,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Change book details.xaml.cs">
+    <Compile Include="Views\Change book details.xaml.cs">
       <DependentUpon>Change book details.xaml</DependentUpon>
     </Compile>
     <Compile Include="Classes\Book manager.cs" />
@@ -107,21 +107,21 @@
     <Compile Include="Classes\BookLib.cs" />
     <Compile Include="Classes\Journal.cs" />
     <Compile Include="Classes\Print edition.cs" />
-    <Compile Include="MainWindow.xaml.cs">
+    <Compile Include="Views\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="new book.xaml">
+    <Page Include="Views\new book.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Search Book.xaml">
+    <Page Include="Views\Search Book.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="new book.xaml.cs">
+    <Compile Include="Views\new book.xaml.cs">
       <DependentUpon>new book.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -165,31 +165,31 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\book_PNG51090.png" />
+    <Resource Include="Resources\images\book_PNG51090.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\change.png" />
+    <Resource Include="Resources\images\change.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\remove.png" />
+    <Resource Include="Resources\images\remove.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\remove2.png" />
+    <Resource Include="Resources\images\remove2.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\search-png-icon-21.jpg" />
+    <Resource Include="Resources\images\search-png-icon-21.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\fillter.png" />
+    <Resource Include="Resources\images\fillter.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\raport.png" />
+    <Resource Include="Resources\images\raport.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\refresh.png" />
+    <Resource Include="Resources\images\refresh.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="ErorrLog.txt" />
+    <Resource Include="Log\ErorrLog.txt" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

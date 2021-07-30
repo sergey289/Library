@@ -168,20 +168,9 @@ F:\GitHub\MyProjects\Library-Management-System\Book management system\bin\Debug\
 F:\GitHub\MyProjects\Library-Management-System\Book management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
 F:\GitHub\MyProjects\Library-Management-System\Book management system\bin\Debug\stdole.dll
 F:\GitHub\MyProjects\Library-Management-System\Book management system\bin\Debug\ShockwaveFlashObjects.dll
-F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Book management system.csprojAssemblyReference.cache
-F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Change book details.g.cs
-F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Generates Reports.g.cs
-F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\MainWindow.g.cs
-F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\new book.g.cs
-F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Search Book.g.cs
 F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\App.g.cs
 F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Book management system_MarkupCompile.cache
 F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Book management system_MarkupCompile.lref
-F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Change book details.baml
-F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Generates Reports.baml
-F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\MainWindow.baml
-F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\new book.baml
-F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Search Book.baml
 F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Book management system.g.resources
 F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Book_management_system.Properties.Resources.resources
 F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Book management system.csproj.GenerateResource.cache
@@ -189,3 +178,14 @@ F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\
 F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Book management system.csproj.CopyComplete
 F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Book management system.exe
 F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Book management system.pdb
+F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Book management system.csproj.AssemblyReference.cache
+F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Views\Change book details.g.cs
+F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Views\Generates Reports.g.cs
+F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Views\MainWindow.g.cs
+F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Views\new book.g.cs
+F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Views\Search Book.g.cs
+F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Views\Change book details.baml
+F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Views\Generates Reports.baml
+F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Views\MainWindow.baml
+F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Views\new book.baml
+F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\Views\Search Book.baml

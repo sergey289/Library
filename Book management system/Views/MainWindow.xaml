@@ -17,7 +17,7 @@
 
 
                 <StackPanel Orientation="Horizontal" RenderTransformOrigin="1.036,0.91">
-                    <Image Source="Resources/book_PNG51090.png" Height="35" Width="37"/>
+                    <Image Source="/Book management system;component/Resources/images/book_PNG51090.png" Height="35" Width="37"/>
 
                 </StackPanel>
             </Button.Content>
@@ -32,7 +32,7 @@
 
 
                 <StackPanel Orientation="Horizontal" RenderTransformOrigin="1.036,0.91">
-                    <Image Source="Resources/change.png"/>
+                    <Image Source="/Book management system;component/Resources/images/change.png"/>
 
                 </StackPanel>
             </Button.Content>
@@ -44,7 +44,7 @@
 
 
             <StackPanel Orientation="Horizontal" RenderTransformOrigin="1.036,0.91">
-                <Image Source="Resources/remove2.png" Height="30" Width="28"/>
+                <Image Source="/Book management system;component/Resources/images/remove2.png" Height="30" Width="28"/>
 
             </StackPanel>
 
@@ -54,7 +54,7 @@
 
 
             <StackPanel Orientation="Horizontal" RenderTransformOrigin="1.036,0.91">
-                <Image Source="Resources/search-png-icon-21.jpg" Height="35" Width="29"/>
+                <Image Source="/Book management system;component/Resources/images/search-png-icon-21.jpg" Height="35" Width="29"/>
 
             </StackPanel>
 
@@ -80,7 +80,7 @@
 
 
             <StackPanel Orientation="Horizontal" RenderTransformOrigin="1.036,0.91">
-                <Image Source="Resources/fillter.png" Height="28" Width="27"/>
+                <Image Source="/Book management system;component/Resources/images/fillter.png" Height="28" Width="27"/>
 
             </StackPanel>
 
@@ -90,7 +90,7 @@
 
 
             <StackPanel Orientation="Horizontal" RenderTransformOrigin="1.036,0.91">
-                <Image Source="Resources/raport.png" Height="35" Width="38"/>
+                <Image Source="/Book management system;component/Resources/images/raport.png" Height="35" Width="38"/>
 
             </StackPanel>
 
