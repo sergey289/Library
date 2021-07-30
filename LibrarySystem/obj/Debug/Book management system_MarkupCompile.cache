@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\GitHub\MyProjects\Library-Management-System\Book management system\obj\Debug\
+F:\GitHub\MyProjects\Library-Management-System\LibrarySystem\obj\Debug\
 Book_management_system
 none
 false
 DEBUG;TRACE
-F:\GitHub\MyProjects\Library-Management-System\Book management system\App.xaml
+F:\GitHub\MyProjects\Library-Management-System\LibrarySystem\App.xaml
 5-473459666
 
-18-939730924
+17-97371557
 23513955418
 Views\Change book details.xaml;Views\Generates Reports.xaml;Views\MainWindow.xaml;Views\new book.xaml;Views\Search Book.xaml;
 
-True
+False
 

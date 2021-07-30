@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book management system", "Book management system\Book management system.csproj", "{24CB9581-44BF-4274-8797-212476150289}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystem", "LibrarySystem\LibrarySystem.csproj", "{24CB9581-44BF-4274-8797-212476150289}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManagementsystem_Test", "BookManagementsystem_Test\BookManagementsystem_Test.csproj", "{4F7CBA36-F1C0-4680-8305-939A03F2CE37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystem.Test", "LibrarySystem.Test\LibrarySystem.Test.csproj", "{4F7CBA36-F1C0-4680-8305-939A03F2CE37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
