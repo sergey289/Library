@@ -7,7 +7,7 @@ Library management system created using the concepts of object-oriented design. 
 
 #### Main Page:
 
-<img src="https://user-images.githubusercontent.com/63552702/97784602-78cba600-1ba8-11eb-8239-b69f306f1e86.png" width="800" height="500" />
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/63552702/127772656-5ee0e502-844a-4a53-a696-04c963c633c5.png)
 
 ####  Book Search:
 
@@ -19,4 +19,5 @@ Library management system created using the concepts of object-oriented design. 
 
 #### Reports:
 
-![Screenshot_1](https://user-images.githubusercontent.com/63552702/97978210-ead50280-1dd5-11eb-8b87-b9d50dd12ead.png)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/63552702/127772580-2debe518-17ea-49bc-b29c-1eb48023346b.png)
+
