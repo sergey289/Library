@@ -6,17 +6,17 @@
         xmlns:local="clr-namespace:Book_management_system"
         xmlns:Viewer="clr-namespace:SAPBusinessObjects.WPF.Viewer;assembly=SAPBusinessObjects.WPF.Viewer" x:Class="Book_management_system.Generates_Reports"
         mc:Ignorable="d"
-        Title="Generates_Reports" Height="602.006" Width="962.701" WindowStartupLocation="CenterScreen" Background="Gainsboro" ResizeMode="NoResize">
+        Title="Reports" Height="602.006" Width="962.701" WindowStartupLocation="CenterScreen" Background="Gainsboro" ResizeMode="NoResize">
     <Grid>
-        <Viewer:CrystalReportsViewer x:Name="raport_view" HorizontalAlignment="Left" Height="561" Margin="220,0,0,0" VerticalAlignment="Top" Width="725"/>
+        <Viewer:CrystalReportsViewer x:Name="raport_view" HorizontalAlignment="Left" Height="561" Margin="220,0,0,0" VerticalAlignment="Top" Width="725" ShowLogo="False"/>
         <Button x:Name="btn_prev" Content="Preview" Margin="8,503,749,17" FontSize="15" Click="btn_prev_Click" Background="White"/>
         <Button x:Name="btn_listofBook" Content="List of Book" Margin="10,21,749,499" FontSize="15" Click="btn_listofBook_Click" Background="White"/>
         <ComboBox x:Name="comb_genre" HorizontalAlignment="Left" Margin="12,133,0,0" VerticalAlignment="Top" Width="196" >
            
         </ComboBox>
-        <Label Content="Genre" HorizontalAlignment="Left" Margin="10,105,0,0" VerticalAlignment="Top"/>
-        <Label Content="Publish Date:" HorizontalAlignment="Left" Margin="10,176,0,0" VerticalAlignment="Top"/>
-        <DatePicker x:Name="pic_publish_date_start" HorizontalAlignment="Left" Margin="10,228,0,0" VerticalAlignment="Top" Width="198" Focusable="False"/>
+        <Label Content="Genre:" HorizontalAlignment="Left" Margin="10,105,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Publish Date:" HorizontalAlignment="Left" Margin="10,176,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <DatePicker x:Name="pic_publish_date_start" HorizontalAlignment="Left" Margin="10,228,0,0" VerticalAlignment="Top" Width="198" Focusable="False" Language="eu" />
         <Label Content="Start Date:" HorizontalAlignment="Left" Margin="10,202,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
