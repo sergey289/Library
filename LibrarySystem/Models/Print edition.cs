@@ -11,17 +11,10 @@ namespace Book_management_system.Classes
     {
 
        private string title;
-
        private string publisher;
-
        private double price;
-
        private int quantity;
-
        private string publish_date;
-
-
-        
 
         protected Print_edition()
         {
@@ -47,28 +40,24 @@ namespace Book_management_system.Classes
         {
 
             get { return title; }
-
             set { title = value; }
         }
 
       public string Publisher
         {
             get { return publisher; }
-
             set { publisher = value; }
         }
 
       public double Price
         {
             get { return price; }
-
             set { price = value; }
         }
 
       public int Quantity
         {
             get { return quantity; }
-
             set { quantity = value; }
         }
 
@@ -77,7 +66,6 @@ namespace Book_management_system.Classes
         {
 
             get { return publish_date; }
-
             set { publish_date = value; }
 
 

@@ -13,25 +13,18 @@ namespace Book_management_system.Classes
 
         public static List<Book> Books = new List<Book>();
 
-        public static List<Journal> Journal = new List<Journal>();
-
-       
+        public static List<Journal> Journal = new List<Journal>();   
 
         Book book1 = new Book("harry potter", "J. K. Rowling", "Bloomsbury Publishing", Category.Adventure, "Unknown", "13: 9780545010221",25,5,DateTime.Now);
         Book book2 = new Book("Elton John Official Autobiography", "Elton John", "Henry Holt", Category.Adventure, "Unknown", "B07PK1ZF4K", 14.99,25,DateTime.Parse("28/08/2020"));
         Book book3 = new Book("Eternity Springs", "Emily March", "St. Martin's Paperbacks ", Category.Romance, "Unknown", "B07SCTC5Q3", 5.69,9, DateTime.Parse("15/08/2020"));
-
-
         public void DefultBooks()
         {
             Books.Add(book1);
             Books.Add(book2);
             Books.Add(book3);
 
-
-
         }
-
         public  BindingSource DesplayBook()
         {
            DataTable dt = new DataTable();
@@ -71,10 +64,7 @@ namespace Book_management_system.Classes
             BindingSource bind = new BindingSource();
 
             bind.DataSource = dt;
-
            
-
-
             return bind;
 
 

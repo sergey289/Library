@@ -48,7 +48,6 @@ namespace Book_management_system.Classes
         {
 
             get { return journalid; }
-
             set {journalid=value; }
 
         }
@@ -56,7 +55,6 @@ namespace Book_management_system.Classes
         public string YearOfPublishing
         {
             get { return yearOfPublishing; }
-
             set { yearOfPublishing = value; }
         }
 
@@ -64,7 +62,6 @@ namespace Book_management_system.Classes
         {
 
             get { return mounthOfPublishing; }
-
             set { mounthOfPublishing = value; }
         }
 
@@ -72,7 +69,6 @@ namespace Book_management_system.Classes
         {
 
             get { return annotation; }
-
             set { annotation = value; }
         }
 
@@ -80,7 +76,6 @@ namespace Book_management_system.Classes
         {
 
             get { return category; }
-
             set { category = value; }
 
         }
@@ -89,7 +84,6 @@ namespace Book_management_system.Classes
         {
 
             get { return isbn; }
-
             set { isbn = value; }
         }
 

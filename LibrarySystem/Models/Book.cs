@@ -50,7 +50,6 @@ namespace Book_management_system.Classes
         public string Author
         {
             get { return author; }
-
             set { author = value; }
         }
 
@@ -58,7 +57,6 @@ namespace Book_management_system.Classes
         {
 
             get { return genre; }
-
             set { genre = value; }
         }
 
@@ -66,7 +64,6 @@ namespace Book_management_system.Classes
         {
 
             get { return description; }
-
             set { description = value; }
         }
 
@@ -74,13 +71,8 @@ namespace Book_management_system.Classes
         {
 
             get { return isbn; }
-
             set { isbn = value; }
         }
-
-       
-
-        
 
     }
 

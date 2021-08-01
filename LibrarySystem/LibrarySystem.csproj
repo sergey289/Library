@@ -65,7 +65,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Classes\Journal manager.cs" />
+    <Compile Include="Logic\Journal manager.cs" />
     <Compile Include="Views\Generates Reports.xaml.cs">
       <DependentUpon>Generates Reports.xaml</DependentUpon>
     </Compile>
@@ -102,11 +102,11 @@
     <Compile Include="Views\Change book details.xaml.cs">
       <DependentUpon>Change book details.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Classes\Book manager.cs" />
-    <Compile Include="Classes\Book.cs" />
-    <Compile Include="Classes\BookLib.cs" />
-    <Compile Include="Classes\Journal.cs" />
-    <Compile Include="Classes\Print edition.cs" />
+    <Compile Include="Logic\Book manager.cs" />
+    <Compile Include="Models\Book.cs" />
+    <Compile Include="Logic\BookLib.cs" />
+    <Compile Include="Models\Journal.cs" />
+    <Compile Include="Models\Print edition.cs" />
     <Compile Include="Views\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>

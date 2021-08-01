@@ -19,7 +19,6 @@ namespace Book_management_system.Classes
         public void AddNewBook(string title, string author, string publisher, Category genre, string description, string isbn, double price, int quantity, DateTime publish_date)
         {
             Book newbook = new Book(title, author, publisher, genre, description, isbn, price,quantity,publish_date);
-
             BookLib.Books.Add(newbook);
 
 
@@ -53,20 +52,13 @@ namespace Book_management_system.Classes
             }
 
 
-
-
-
         }
 
         public void Remove(int BookID)
         {
 
             int index = BookLib.Books.FindIndex(a => a.Bookid == BookID);
-
             BookLib.Books.RemoveAt(index);
-
-          
-
 
         }
 
@@ -74,7 +66,6 @@ namespace Book_management_system.Classes
         {
 
             DataTable dt = new DataTable();
-
 
             dt.Columns.Add("Book iD");
             dt.Columns.Add("Title");
@@ -115,17 +106,15 @@ namespace Book_management_system.Classes
             }
 
             BindingSource bind = new BindingSource();
-
             bind.DataSource = dt;
-
             return bind;
+
         }
 
         public BindingSource SearchBook(string title,string author,string publisher,string isbn)
         {
 
             DataTable dt = new DataTable();
-
 
             dt.Columns.Add("Book iD");
             dt.Columns.Add("Title");
@@ -158,7 +147,6 @@ namespace Book_management_system.Classes
                     row["Description"] = item.Description;
                     row["Isbn"] = item.Isbn;
                     row["Price"] = item.Price + "$";
-
                     dt.Rows.Add(row);
 
                 }
@@ -166,9 +154,7 @@ namespace Book_management_system.Classes
             }
 
              BindingSource bind = new BindingSource();
-
              bind.DataSource = dt;
-
              return bind;
         }
 

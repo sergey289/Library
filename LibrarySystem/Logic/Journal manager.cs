@@ -39,7 +39,6 @@ namespace Book_management_system.Classes
                     bk.MounthOfPublishing = mounthOfPublishing;
                     bk.Annotation = annotation;
                     bk.journCategory= (JournCategory)Enum.Parse(typeof(JournCategory),category, true);
-
                     bk.Isbn = isbn;
 
 
@@ -66,10 +65,6 @@ namespace Book_management_system.Classes
 
 
         }
-
-      
-
-
 
     }
 }
